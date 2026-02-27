@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Matthew Sherring | Portfolio</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #111;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: 0 auto 20px auto;
+      background: #fff;
+      border-radius: 8px;
+    }
+
+    h1 {
+      margin: 10px 0 0 0;
+    }
+
+    h2 {
+      margin-top: 0;
+      text-align: center;
+    }
+
+    h3 {
+      margin-top: 30px;
+    }
+
+    p {
+      margin: 12px 0;
+    }
+
+    .profile-img {
+      width: 240px;
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto 20px auto;
+    }
+
+    .linkedin-btn {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #0A66C2;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      margin-top: 14px;
+      transition: 0.2s ease;
+    }
+
+    .linkedin-btn:hover {
+      background-color: #084a94;
+    }
+
+    .refs p {
+      margin: 8px 0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #111;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <img src="Headshot.png" alt="Matthew Sherring" class="profile-img" />
+
+    <h1>Matthew Sherring</h1>
+
+    <p><strong>Bachelor of Commerce (Project Management)</strong></p>
+    <p>Qualified Boilermaker | FIFO Fixed Plant Maintenance</p>
+    <p>Targeting Junior Project Coordination &amp; Operations Roles in Mining</p>
+
+    <p>
+      <strong>Core Skills:</strong><br />
+      Fixed Plant Maintenance | Shutdown Execution | Structural Fabrication | Welding (MIG/TIG) | Risk Awareness | Team Collaboration
+    </p>
+
+    <a href="https://www.linkedin.com/in/matthew-sherring-5b9799329/" target="_blank" class="linkedin-btn">
+      View My LinkedIn Profile
+    </a>
+  </header>
+
+  <section>
+    <h2>Professional Profile</h2>
+    <p>
+      Qualified Boilermaker with FIFO shutdown experience across mining and fixed plant maintenance environments, currently completing a Bachelor of Commerce majoring in Project Management. Developing capability in planning, risk management, and stakeholder coordination with the goal of progressing into project and operations-focused roles within the mining sector.
+    </p>
+  </section>
+
+  <section>
+    <h2>Reflection</h2>
+
+    <p>
+      Developing my career identity requires more than completing my degree and securing employment. It involves actively defining who I am professionally, what motivates me, and how I want to grow over time. Boyle (2022) argues that the Graduate Transition to Work (GTW) often acts as a turning point where graduates are forced to reassess their expectations about themselves and their careers. This challenged my assumption that clarity will simply emerge once I enter full-time work. If I rely only on experience without reflection, I risk shaping my career identity reactively rather than intentionally.
+    </p>
+
+    <p>
+      Boyle (2022) found that many Millennials delay serious career identity exploration during university and only begin refining their professional identity when workplace experiences expose misalignment. Reflecting honestly, I can see how easy it is to focus on achievement, grades, and progression without consistently questioning whether my decisions align with my intrinsic motivations. I have often measured progress through external milestones rather than internal alignment. This reading has reinforced that identity development requires deliberate self-examination, not just forward movement.
+    </p>
+
+    <p>
+      Brown (2015) argues that identity work is a continuous process in which individuals actively construct a coherent understanding of themselves while negotiating the social roles and expectations placed upon them. This perspective makes it clear that my professional identity will not simply appear once I graduate. It will develop based on how I interpret my experiences and whether I consciously adjust my direction. Instead of treating internships, projects, or roles as tasks to complete, I need to evaluate what they reveal about my preferred responsibilities, working style, and long-term aspirations.
+    </p>
+
+    <p>
+      Boyle (2022) also highlights that encountering misaligned work can strengthen intrinsic motivation rather than permanently lowering expectations. This aligns with Hall’s (2004) concept of the protean career, which emphasises self-directed and values-driven development. If I want to build a strong career identity, I must define success based on alignment with my values rather than relying solely on external measures such as salary or status. Clarifying whether I am motivated most by leadership, autonomy, impact, skill development, or stability will help me make more intentional decisions as I progress.
+    </p>
+
+    <p>
+      Additionally, Frazier and Hooker (2006, p. 44) suggest that identity evolves through engagement with imagined future versions of the self. Considering who I hope to become and who I want to avoid becoming can guide my exploration and strengthen motivation. Instead of seeking immediate certainty, I can approach new experiences as structured opportunities to test different professional directions. Each experience becomes feedback that sharpens my understanding of what fits and what does not.
+    </p>
+
+    <p>
+      Overall, developing my career identity requires proactive reflection, self-direction, and acceptance that revision is part of growth. Boyle (2022) demonstrates that identity development continues beyond graduation. By consciously engaging in identity work (Brown, 2015), adopting a self-directed mindset (Hall, 2004), and exploring future-oriented possibilities (Frazier &amp; Hooker, 2006), I can approach the GTW with clarity and adaptability rather than uncertainty. Career identity is not something I will passively discover; it is something I must deliberately construct and refine over time.
+    </p>
+
+    <h3>References</h3>
+    <div class="refs">
+      <p>
+        Boyle, K. A. (2022). Career identities and Millennials’ response to the graduate transition to work: lessons learned. <em>Journal of Education and Work, 35</em>(1), 78–91. https://doi-org.ezproxy.ecu.edu.au/10.1080/13639080.2021.2009782
+      </p>
+      <p>
+        Brown, A. D. (2015). Identities and identity work in organizations. <em>International Journal of Management Reviews, 17</em>(1), 20–40. https://doi.org/10.1111/ijmr.12035
+      </p>
+      <p>
+        Frazier, L. D., &amp; Hooker, K. (2006). Possible selves in adult development: Linking theory and research. In C. Dunkel &amp; J. Kerpelman (Eds.), <em>Possible selves: Theory, research and applications</em> (p. 44). Nova Science Publishers.
+      </p>
+      <p>
+        Hall, D. T. (2004). The protean career: A quarter-century journey. <em>Journal of Vocational Behavior, 65</em>(1), 1–13. https://doi.org/10.1016/j.jvb.2003.10.006
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Career Identity Evidence</h2>
+
+    <h3>Claremont Purpose Test</h3>
+    <p>Purpose Score: 49/70 – Moderate level of purpose with opportunity for further development in goal-directedness and long-term impact.</p>
+
+    <h3>80,000 Hours Career Test</h3>
+    <p>Completed career assessment identifying interest in impact-driven, structured problem-solving roles. Results provided response summary rather than formal feedback.</p>
+
+    <h3>Career Aptitude Test</h3>
+    <p>Identified strengths in analytical thinking, practical problem-solving, and structured task execution aligned with project coordination pathways.</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Matthew Sherring</p>
+  </footer>
+
+</body>
+</html>
